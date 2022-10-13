@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prakhar0703
-- 👀 I’m interested in Physics and AI/ML
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on projects working on the intersections of phyics and computer science
+- 👀 I’m interested in Physics and AI/ML.
+- 🌱 I’m currently learning C.
+- 💞️ I’m looking to collaborate on projects working on the intersections of physics and computer science.
 - 📫 How to reach me, ig:@prakhar0703
 
 <!---
