@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakhar0703
+- 👋 Hi, I’m Prakhar.
 - 👀 I’m interested in Physics and AI/ML.
 - 🌱 I’m currently learning CSS.
 - 💞️ I’m looking to collaborate on projects working on the intersections of physics and computer science.
