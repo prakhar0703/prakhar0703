@@ -27,7 +27,7 @@ Welcome to my little corner of GitHub. I code, I break things, I fix 'em… usua
 ---
 
 ## 📫 Slide Into My DMs
-- Twitter: [@prakharr0703](https://x.com/prakhar0703)  
+- Twitter: [@prakharr0703](https://x.com/prakharr0703)  
 - Discord: prakhar0703  
 
 ---
